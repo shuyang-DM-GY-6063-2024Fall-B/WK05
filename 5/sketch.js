@@ -17,4 +17,5 @@ function draw() {
 
 function mouseReleased() {
   cc += 1;
+  fill(random(255),random(255),random(255))
 }
